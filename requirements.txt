@@ -1,2 +1,3 @@
 aioredis==2.0.0
-git+git://github.com/redis/redis-py@1b050753d6ec6a6630c2cfd83c2cfbd741a3ced3#egg=redis
+# git+git://github.com/redis/redis-py@1b050753d6ec6a6630c2cfd83c2cfbd741a3ced3#egg=redis
+git+git://github.com/redis/redis-py@11b14630a6845c28acfd4220b72ed62d72913305#egg=redis
